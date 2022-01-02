@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @brooyt
-- 👀 I’m interested in ... you
-- 🌱 I’m currently learning ... python, SQL and Javascript
-- 💞️ I’m looking to collaborate on ... a project with some friends :) 
+- 👋 Sup, I’m @brooyt
+- 👀 I’m interested in learning, creating and improve my code
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on a project with friends :) 
 - 📫 How to reach me ... dm me bro!
 
 <!---
