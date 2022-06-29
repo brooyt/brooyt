@@ -1,5 +1,5 @@
 - 👋 Sup, I’m @brooyt like Brock from Pokemon and King Boo from Mario
-- 👀 I’m interested in learning, creating and improve my code
+- 👀 I’m interested in learning, creating and improving my code
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on a project with friends :) 
 - 📫 How to reach me ... dm me bro!
